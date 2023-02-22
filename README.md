@@ -15,3 +15,5 @@ The fourth step is to understand the feature importance. After categorizing the 
 In the last step, we make a new prediction on the health status of the residents after adjusting some key features. 
 
 In conclusion, urban features related to healthy living has a great influence on residents' health. This project showcases that by validating the theory with data, urban planner can better prove their suggestions and achieve a better consensus from all parties. 
+
+Full paper available: https://www.researchgate.net/publication/364653326_A_POI-Based_Machine_Learning_Method_in_Predicting_Health
